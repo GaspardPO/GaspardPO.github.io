@@ -315,4 +315,4 @@ On pourrait ensuite convertir tout le code de prod en Kotlin automatiquement gr�
 
 ### Références 
 Il y a un [blog de Johan Martisson](https://martinsson-johan.blogspot.com/2014/05/refactorer-legacy-meme-pas-peur.html) où il applique la même méthode, mais sur le kata Trivia.  
-C'est dans une de ses conférences que j'ai découvert cet outils il y a quelques années !
+C’est dans une de ses conférences que j’ai découvert cet outil il y a quelques années !

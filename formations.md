@@ -11,7 +11,7 @@ En formations de prêtes et déjà rodées, j'ai [une introduction à l'agilité
 ------
 ## Introduction à l'agilité
 ### Comprendre la démarche agile
-Le but est de comprendre la démarche agile, d'avoir un petit apperçu sur les grands principes et valeurs.  
+Le but est de comprendre la démarche agile, d'avoir un petit aperçu sur les grands principes et valeurs.  
 Appréhender les différentes méthodes associées à l'Agilité, en insistant plus sur Scrum et XP (eXtreme Programming)
 
 * manifeste agile (principes, valeurs)
