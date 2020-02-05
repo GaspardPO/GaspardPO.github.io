@@ -6,7 +6,7 @@ permalink: /formations/
 
 Je suis disponible pour animer des formations sur la France (ou proche).   
 En formations de prêtes et déjà rodées, j'ai [une introduction à l'agilité](#introduction--lagilit) et une formation sur
-[l'agilité pour les devs](#ingenierie-logicielle-agile)
+[l'agilité pour les devs et les pratiques Craft](#software-crafstmanship)
 
 ------
 ## Introduction à l'agilité
@@ -30,41 +30,55 @@ Peut être couplée avec une préparation à la [Certification Professional Scru
 Enfin, si vous croyez qu'on peut devenir "master" après 3 jours de formations.
 
 ------
-## Ingenierie Logicielle Agile 
-### Code-Retreat et pratiques d'eXtreme Programming
-Peut être découpée en plusieurs formations :
-* TDD, tests et Programmation Objet
-* Code-Legacy et Refactoring
-* Développeur Agile
+## Software Crafstmanship 
+### Code-Retreat, TDD, Clean code et autres pratiques d'eXtreme Programming
 
+Le Software Crafstmanship, c'est l'artisanat logiciel. C'est faire du sur-mesure pour le client, en étant très attentif à la qualité. Et c'est aussi mentorer les débutants et énormément de pratiques d'apprentissage et de transfert de connaissance pour continuellement monter le niveau des équipes : "raise the bar".
 
-Explorer les pratiques d'XP (eXtreme Programming) et de l'agilité en tant que dev.  
+Explorer les pratiques d'XP (eXtreme Programming), de Software Craftsmanship et de l'agilité en tant que dev.  
 Appréhender le développement agile basé sur des techniques modernes : TDD, intégration continue, automatisation des tests.  
 Comprendre l'importance des tests dans la production de logiciels et le développement.  
 Repenser ses applications existantes par la mise en place de tests pour amélioration continue.  
 Sensibiliser à son rôle de membre d'une équipe agile.  
-Utiliser les tests pour faire emerger l'architecture de l'application.  
+Utiliser les tests pour faire émerger l'architecture de l'application.  
 
 
-Beaucoup de pratique, en binôme.  
-Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, Kotlin, Ruby, Python, C++, Javascript, Typescript, PHP, ObjectiveC, Swift ... 
+Le programme dépend énormément des attentes et des connaissances des participant·e·s et va donc varier !  
 
-* User stories / tests d’acceptances
-* l'importance dans le métier de dev de discuter avec le business,
-* Tests, tests unitaires, mocks,
-* TDD,
-* qualité,
-* clean-code,
-* principes SOLID,
-* pair-programing,
-* revue de code,
-* Git, Jenkins, intégration continue,
-* refactoring de code legacy,
-* communication en équipe.
+Voici un exemple de ce qu'il est possible de faire : 
 
-Pour qui : équipes de devs.  
-2-4 jours  
-Nécessite d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
+**Jour 1 : Agilité, Tests, TDD**
+
+    Aperçu rapide de l'Agilité
+    Les différents types de tests
+    Principe du TDD
+    Ecriture de User-stories
+    ATDD : écrire les tests d'acceptances avec le métier
+    Pair-programing
+
+**Jour 2 : Qualité, Clean-Code**     
+    
+    Qualité, Dette Technique
+    Clean-Code
+    Principes SOLID
+    Architecture émergente 
+    Mocks
+             
+**Jour 3 : Refactorer du code legacy, travailler dans une équipe**
+
+    Qu'est ce que le code legacy ?
+    Écrire des tests sur du code legacy
+    Casser des dépendances, 
+    Refactorer
+    Repérer les Bad-Smells
+    Revue de code : Relire du code
+    Git, Jenkins, intégration continue,
+    Communication en Équipe
+
+
+La formation comprends **75% d'exercices pratiques**, en binôme. Elle nécessite donc d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
+  
+Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, Kotlin, Scala, Ruby, Python, C++, Javascript, Typescript, PHP, ObjectiveC, Swift ... Il est possible (et même conseillé !) de mélanger des devs utilisant technologies différentes dans une même formation. 
 
 Peut être couplé avec une préparation à la [Certification Professional Scrum Developper de scrum.org](https://www.scrum.org/professional-scrum-developer-certification)
 
@@ -73,4 +87,4 @@ Peut être couplé avec une préparation à la [Certification Professional Scrum
 ### Java
 ### Kotlin
 ### JUnit
-
+### Git
