@@ -76,7 +76,7 @@ Voici un exemple de ce qu'il est possible de faire :
     Communication en Équipe
 
 
-La formation comprends **75% d'exercices pratiques**, en binôme. Elle nécessite donc d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
+La formation comprend **75% d'exercices pratiques**, en binôme. Elle nécessite donc d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
   
 Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, Kotlin, Scala, Ruby, Python, C++, Javascript, Typescript, PHP, ObjectiveC, Swift ... Il est possible (et même conseillé !) de mélanger des devs utilisant technologies différentes dans une même formation. 
 
