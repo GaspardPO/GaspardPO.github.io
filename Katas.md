@@ -14,7 +14,7 @@ Il y a aussi une classe de tests en kotlin qui explique brièvement la syntaxe.
 ## [Python](https://github.com/GaspardPO/empty-kata-python36)
 Projet vide pour Python 3.6 avec unittest.  
 
-## [Cpp](https://github.com/GaspardPO/empty-kata-cpp)
+## [C++](https://github.com/GaspardPO/empty-kata-cpp)
 Projet vide pour C++ avec Google Test. (gtest).
 
 ## [Ruby](https://github.com/GaspardPO/empty-kata-ruby/)
@@ -23,5 +23,6 @@ Projet vide pour Ruby avec minitest et rspec.
 ## [R](https://github.com/GaspardPO/empty-kata-R)
 Projet vide pour R avec testthat.
 
-## [Et plein d'autres sur le github de Software Crafters Berlin](https://github.com/swkBerlin/kata-bootstraps/tree/master/cpp)
+## [Et plein d'autres sur le github de Software Crafters Berlin](https://github.com/swkBerlin/kata-bootstraps/)
 
+## [Ou sur le github de ludnadez](https://github.com/ldez/kata-starter)
