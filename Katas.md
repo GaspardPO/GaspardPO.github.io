@@ -4,7 +4,7 @@ title: katas
 permalink: /Katas/
 ---
 
-#Projets vides pour démarrer rapidement un kata
+# Projets vides pour démarrer rapidement un kata
 avec un test qui passe et un test qui échoue.
 
 ## [JVM](https://github.com/GaspardPO/empty-kata-jvm)

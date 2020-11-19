@@ -4,9 +4,10 @@ title: Formations
 permalink: /formations/
 ---
 
-Je suis disponible pour animer des formations sur la France (ou proche).   
-En formations de prêtes et déjà rodées, j'ai [une introduction à l'agilité](#introduction--lagilit) et une formation sur
-[l'agilité pour les devs et les pratiques Craft](#software-crafstmanship)
+Je suis disponible pour animer des formations sur la France (ou proche). 
+En période de Covid, je peux aussi facilement donner les formations à distance.  
+En formations de prêtes et déjà rodées, j'ai [une introduction à l'agilité](#introduction--lagilit), une formation sur
+[l'agilité pour les devs et les pratiques Craft](#software-crafstmanship) et une formation sur [le refactoring de code legacy](#refactoring-de-code-legacy)
 
 ------
 ## Introduction à l'agilité
@@ -81,6 +82,50 @@ La formation comprend **75% d'exercices pratiques**, en binôme. Elle nécessite
 Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, Kotlin, Scala, Ruby, Python, C++, Javascript, Typescript, PHP, ObjectiveC, Swift ... Il est possible (et même conseillé !) de mélanger des devs utilisant technologies différentes dans une même formation. 
 
 Peut être couplé avec une préparation à la [Certification Professional Scrum Developper de scrum.org](https://www.scrum.org/professional-scrum-developer-certification)
+
+
+------
+## Refactoring de Code Legacy 
+### Comment tester et refactorer du code existant ?
+Notre métier consiste principalement à reprendre du code existant. Et c'est très souvent un numéro d'équilibriste redouté par les équipe de dev.    
+Le but de cette formation est de voir comment apréhender du code legacy pour le nettoyer et ajouter sans douleur une nouvelle fonctionnalité.  
+
+
+Qu'est-ce que le code legacy ?    
+Qu'est-ce que la dette technique, qu'est-ce que la qualité ?  
+Comment reconnaître et éviter les Bad smells et comment écrire du code propre ?  
+
+**Clean-code :**
+
+    Révéler l'intention : nommage, commentaires  
+    Variables, fonctions, classes, modules ...  
+    Typage  
+    Principes SOLID  
+    Conditionnel / polymorphisme  
+
+**Écrire des tests sur du code legacy**
+
+    Isoler les dépendances et appels statiques pour pouvoir tester    
+    Golden-master test / approvals : générer des milliers de tests de non-régressions pour une boite noire  
+    Reflection  
+
+**Refactorer**
+
+    Baby-step, itérations  
+    Refactoring automatique, raccourcis clavier de l'IDE  
+    Tests unitaires : tester unitairement et faire apparaitre des spécifications  
+
+**Redesign :**
+
+    Injection de dépendances  
+    Ajouter des nouvelles fonctionnalités, TDD  
+
+
+Il est préferable d'avoir suivit la formation [Software Crafstmanship](#software-crafstmanship) ou de connaître rapidement les principes des tests unitaires, TDD et clean-code.  
+
+La formation comprend **75% d'exercices pratiques**, en binôme. Elle nécessite donc d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
+  
+Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, Kotlin, Python, C++, Javascript, Typescript, PHP ...  
 
 ------
 ## En préparation
