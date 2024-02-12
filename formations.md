@@ -5,9 +5,11 @@ permalink: /formations/
 ---
 
 Je suis disponible pour animer des formations sur la France (ou proche). 
-En période de Covid, je peux aussi facilement donner les formations à distance.  
-En formations de prêtes et déjà rodées, j'ai [une introduction à l'agilité](#introduction--lagilit), une formation sur
-[l'agilité pour les devs et les pratiques Craft](#software-crafstmanship) et une formation sur [le refactoring de code legacy](#refactoring-de-code-legacy)
+En formations de prêtes et déjà rodées, j'ai [une introduction à l'agilité](#introduction-à-lagilité), une formation sur
+[l'agilité pour les devs et les pratiques Craft](#software-crafstmanship-) et une formation sur [le refactoring de code legacy](#refactoring-de-code-legacy-)
+
+Les formations peuvent être animées à distance. C'est même très pratique pour les formations de code avec le partage d'écran.  
+Ces formations sont certifiés Qualiopi et peuvent donc être financées par des OPCOs via [HackYourJob](https://formation.hackyourjob.com/formateurs.html#formateur_partenaire).
 
 ------
 ## Introduction à l'agilité
@@ -79,7 +81,7 @@ Voici un exemple de ce qu'il est possible de faire :
 
 La formation comprend **75% d'exercices pratiques**, en binôme. Elle nécessite donc d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
   
-Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, Kotlin, Scala, Ruby, Python, C++, Javascript, Typescript, PHP, ObjectiveC, Swift ... Il est possible (et même conseillé !) de mélanger des devs utilisant technologies différentes dans une même formation. 
+Le langage utilisé importe peu : j'ai déjà donné cette formation à des équipes codant en Java, C#, Kotlin, Scala, Ruby, Python, C++, Javascript, Typescript, PHP, ObjectiveC, Swift ... Il est possible (et même conseillé !) de mélanger des devs utilisant technologies différentes dans une même formation. 
 
 Peut être couplé avec une préparation à la [Certification Professional Scrum Developper de scrum.org](https://www.scrum.org/professional-scrum-developer-certification)
 
@@ -121,7 +123,7 @@ Comment reconnaître et éviter les Bad smells et comment écrire du code propre
     Ajouter des nouvelles fonctionnalités, TDD  
 
 
-Il est préferable d'avoir suivit la formation [Software Crafstmanship](#software-crafstmanship) ou de connaître rapidement les principes des tests unitaires, TDD et clean-code.  
+Il est préferable d'avoir suivit la formation [Software Crafstmanship](#software-crafstmanship-) ou de connaître rapidement les principes des tests unitaires, TDD et clean-code.  
 
 La formation comprend **75% d'exercices pratiques**, en binôme. Elle nécessite donc d'avoir un PC pour 2 avec un environnement de dev fonctionnel.
   
